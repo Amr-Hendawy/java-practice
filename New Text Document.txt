@@ -1,0 +1,50 @@
+// what is java
+// what is jdk and jvm
+// install java extension on vscode
+// what is class
+// what is compilation process
+// processing a java program
+// high level vs low level 
+// computer and machine language
+// programing errors syntax - runtime - logic
+// system.out.line() VS system.out.println()
+
+
+// any program in java must have class
+// what is class is a collection of datat and methods or data items or functions
+// java is an OOP
+// any program in java that has at least one class and unlimited number of class
+// java must have main method that is the entry point
+// any code you write is will store in a file with the extension of .java
+// comments
+// Java is case sensitive
+all classes related to each other pu them in something called package
+System.out.print
+
+we say class out that is inside package System
+I want its print method called print
+out is a class of thousands of classes that categoriesed into many packages
+
+// to get result you have to run
+//when to write source code 
+// and run ==> run means excute the program
+// and it is a middle step called compilation
+// What is compilation in java?
+// the code is saved in a file with .java
+// java is hight level lenaguage
+// computer doesn't understand even machine language
+// compiler takes source code to thelanguage that computer understands
+// compiler takes code and convert it to bytecode and it is not a machinec langyuage
+// the excution is done from bytecode level
+// if it is mistakes there is an images for mistakes
+// How To Dislay Program Output
+// System.out.print("")
+// \n \t \r \\ \"
+// Input and Variables - Part 1
+// we took object from class Scanner to use it for recieve input 
+// we determine for the program the source of input
+// System.in means that user will input
+// the input must save in memory
+// if I give program num1 and num2 and num3 how to get these numbers ?
+// vaiable is a place into memory and varaible has a name
+// 
